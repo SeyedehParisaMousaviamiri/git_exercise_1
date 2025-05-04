@@ -1,3 +1,7 @@
 Apple
 Orange
 bluebeary
+Strawberry
+Kiwi
+Apple
+
